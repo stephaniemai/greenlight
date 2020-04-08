@@ -158,3 +158,33 @@
 .signin-button {
   font-size: 16px;
 }
+
+.carousel-container {
+  display: flex;
+  justify-content: center;
+}
+
+.carousel-indicators li {
+  background-color: #005DA8;
+  box-shadow: inset 1px 1px 1px 1px rgba(0,0,0,0.5);
+}
+
+.carousel-control-prev {
+  opacity: 1;
+}
+
+.carousel-control-next {
+  opacity: 1;
+}
+
+.fa-chevron-left {
+  color: #005DA8;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.fa-chevron-right {
+  color: #005DA8;
+  font-size: 22px;
+  font-weight: bold;
+}
